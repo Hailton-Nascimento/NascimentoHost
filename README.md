@@ -12,7 +12,7 @@ Página para criada para oferecer hospedagem de páginas Web e domínios de site
 
 ## Objetivo
 
-- criar uma página fictícia para oferecer hospedagem de páginas Web e domínios de sites, com um layout básico utilizando Html e CSS para aprendizado e aperfeiçoamento no desenvolvimento de Layout.
+- criar uma página fictícia para oferecer hospedagem de páginas Web e domínios de sites, com um layout básico utilizando Html e CSS para aprendizado e aperfeiçoamento no desenvolvimento de Layout totalmente responsivo.
 
 
 
